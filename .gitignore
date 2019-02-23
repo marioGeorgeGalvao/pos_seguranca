@@ -1,0 +1,6 @@
+# Package Files #
+/vendor
+.htaccess
+environment.php
+index.php
+config.php
